@@ -1,4 +1,4 @@
-fuzzy clastering for better classification on consumption.
+#   fuzzy clastering for better classification on consumption.
 
 Fuzzy Clustering algorithm for optimizing a decentralized grid!
 
