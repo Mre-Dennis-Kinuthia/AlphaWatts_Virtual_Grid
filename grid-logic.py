@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+GRID_USERS = 3000
+GRID_NODES = GRID_USERS/10
+
+print(GRID_NODES)
