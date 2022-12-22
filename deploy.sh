@@ -7,6 +7,5 @@ git commit -m "Initializing"
 
 git push origin master
 
-echo "============Deploye==================="
+echo "============Deployed==================="
 
-clear
