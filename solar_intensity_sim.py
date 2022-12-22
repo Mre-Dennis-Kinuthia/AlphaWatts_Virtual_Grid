@@ -21,5 +21,5 @@ def simulate_solar_intensity(num_timesteps: int) -> list:
     return solar_intensity
 
 # Test the function
-solar_intensity = simulate_solar_intensity(24)
-print(solar_intensity)
+#solar_intensity = simulate_solar_intensity(24)
+#print(solar_intensity)
