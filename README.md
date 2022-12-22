@@ -1,6 +1,6 @@
 #   Fuzzy clastering for better classification on consumption.
 
-<h6>Fuzzy Clustering algorithm for optimizing a decentralized grid!<h6>
+<h6>Fuzzy Clustering algorithm for optimizing a decentralized grid!
 
 Fuzzy clustering is a method of clustering data points into groups, or clusters, where each data point can belong to more than one cluster with a certain degree of membership. This is in contrast to traditional clustering methods, where each data point can only belong to one cluster.
 
@@ -19,4 +19,4 @@ Update the membership values of each data point based on its distance to the cen
 Repeat steps 2 and 3 until the membership values converge, or reach a stable state.
 Once the algorithm has completed, you will have a set of clusters and membership values for each data point. You can then use these clusters and membership values to optimize the distribution of resources in the decentralized grid.
 
-Thank you for using the Fuzzy Clustering algorithm for optimizing a decentralized grid! If you have any questions or need further assistance, please don't hesitate to ask.
+Thank you for using the Fuzzy Clustering algorithm for optimizing a decentralized grid! If you have any questions or need further assistance, please don't hesitate to ask.</6>
