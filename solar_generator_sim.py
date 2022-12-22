@@ -8,6 +8,7 @@
 import random
 from solar_intensity_sim import simulate_solar_intensity
 
+
 def simulate_energy_generation(num_timesteps: int, solar_farm_size: float, panel_efficiency: float, sunlight_threshold: float) -> list:
     """Simulates the solar energy generation (kWh) over the course of a day.
 

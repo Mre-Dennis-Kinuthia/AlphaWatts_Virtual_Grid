@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import random
 
+
 def simulate_solar_intensity(num_timesteps: int) -> list:
     """Simulates the solar intensity (W/m^2) over the course of a day.
 
@@ -13,7 +14,7 @@ def simulate_solar_intensity(num_timesteps: int) -> list:
     # Generate random values for solar intensity (W/m^2)
     solar_intensity = []
     for i in range(num_timesteps):
-        if i < num_timesteps / 2:  # Generate random values for first half of time steps
+        if i < num_timesteps / 2:  # Generate vals for first half of timesteps
             solar_intensity.append(random.uniform(0, 1000))
         else:  # Set solar intensity to zero for second half of time steps
             solar_intensity.append(0)
@@ -21,5 +22,5 @@ def simulate_solar_intensity(num_timesteps: int) -> list:
     return solar_intensity
 
 # Test the function
-#solar_intensity = simulate_solar_intensity(24)
-#print(solar_intensity)
+# solar_intensity = simulate_solar_intensity(24)
+# print(solar_intensity)
