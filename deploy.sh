@@ -13,5 +13,5 @@ git commit -m "Initializing"
 
 git push
 
-echo "${green}============Deployed===================${clear}"
+echo -e "${green}============Deployed===================${clear}"
 
