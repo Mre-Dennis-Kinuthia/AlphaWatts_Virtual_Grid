@@ -5,7 +5,7 @@ git add .
 
 git commit -m "Initializing"
 
-git push origin master
+git push
 
 echo "============Deployed==================="
 
