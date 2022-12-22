@@ -19,4 +19,4 @@ Update the membership values of each data point based on its distance to the cen
 Repeat steps 2 and 3 until the membership values converge, or reach a stable state.
 Once the algorithm has completed, you will have a set of clusters and membership values for each data point. You can then use these clusters and membership values to optimize the distribution of resources in the decentralized grid.
 
-Thank you for using the Fuzzy Clustering algorithm for optimizing a decentralized grid! If you have any questions or need further assistance, please don't hesitate to ask.</6>
+Thank you for using the Fuzzy Clustering algorithm for optimizing a decentralized grid! If you have any questions or need further assistance, please don't hesitate to ask.
