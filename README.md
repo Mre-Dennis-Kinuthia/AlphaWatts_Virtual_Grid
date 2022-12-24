@@ -1,2 +1,2 @@
 # AlphaWatts_Virtual_Grid
-A simulation for an implimentable virtual electric grid
+<h6>A simulation for an implimentable virtual electric grid
