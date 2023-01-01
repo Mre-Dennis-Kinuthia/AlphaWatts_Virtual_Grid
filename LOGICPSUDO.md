@@ -13,4 +13,4 @@ if node network capacity is below 30% and system is above 30%:
 
 detect faults on data
 fix faults on data
-log timestamped deseasons
+log timestamped decision
